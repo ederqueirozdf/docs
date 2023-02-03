@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Bem vindo InfraTheDocs
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
@@ -11,7 +11,7 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   Este projeto contêm documentações relacionadas à vivência no Suporte e Sustentação em infraestrutura de TI.
 
 Contents
 --------
